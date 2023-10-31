@@ -3,7 +3,7 @@ import edit_cover
 
 def make_edited_video(title_text, sub_text, third_text):
 
-    edit_cover.edit_cover_video()
+    edit_cover.edit_cover_video(title_text, sub_text, third_text)
 
     video_path = "banco_imagens/video_obs_alta.mkv"
     audio_path = "banco_imagens/audio.aac"
