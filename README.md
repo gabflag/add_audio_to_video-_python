@@ -1,4 +1,4 @@
-# Descrição
+# Adicionando audio e capa a video com python
 
 Este repositório contém um script Python que pode ser usado para criar um vídeo com uma capa personalizada. O script `main.py` utiliza a biblioteca `moviepy` para editar um vídeo e incorporar um áudio, enquanto a capa do vídeo é personalizada usando o script `edit_cover.py`, que utiliza a biblioteca `Pillow`.
 
