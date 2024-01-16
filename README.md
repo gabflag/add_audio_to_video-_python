@@ -44,3 +44,5 @@ Espero que estas instruções sejam úteis! Se você tiver alguma dúvida ou enc
 
 by CLI with ffmpeg:
 ffmpeg -i video.webm -i audio.mp3 -c:v libx264 -c:a aac -strict experimental output.mp4
+
+atualizando do readme necessária
